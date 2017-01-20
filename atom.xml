@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>In an ocean of code..</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fergstar.github.com/"/>
+  <updated>2017-01-20T16:22:46.000Z</updated>
+  <id>https://fergstar.github.com/</id>
+  
+  <author>
+    <name>Guy Fergusson</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A drop into the ocean.</title>
+    <link href="https://fergstar.github.com/2017/01/21/A-drop-into-the-ocean/"/>
+    <id>https://fergstar.github.com/2017/01/21/A-drop-into-the-ocean/</id>
+    <published>2017-01-20T16:11:35.000Z</published>
+    <updated>2017-01-20T16:22:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>So this is my drop into the ocean. A ripple at first, nothing more. Let’s just see where it goes..</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So this is my drop into the ocean. A ripple at first, nothing more. Let’s just see where it goes..&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
